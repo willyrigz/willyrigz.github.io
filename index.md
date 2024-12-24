@@ -9,7 +9,7 @@ Using a dataset of 1.3M+ rows, I analysed global loan disbursements, repayments,
   - Why repayment rates differ across regions like Africa and Latin America.  
   - How delays in disbursement impact project success.  
 
-![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white)![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)  
+![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)  
 
 [Read the Article](https://www.linkedin.com/pulse/global-impact-analysing-world-bank-loan-performance-data-omatsone-hmeqe/?trackingId=HxfPrec5R2qJHO5XBbsteQ%3D%3D)  
 
@@ -23,7 +23,7 @@ This Tableau dashboard dives into public school performance data, revealing syst
   - Which schools excel despite challenges.  
   - How accountability levels correlate with performance.  
 
-![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white)![Education_Data](https://img.shields.io/badge/Education_Data-red)![Visualisation](https://img.shields.io/badge/Visualisation-purple)  
+![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Education_Data](https://img.shields.io/badge/Education_Data-red) ![Visualisation](https://img.shields.io/badge/Visualisation-purple)  
 
 [Explore the Dashboard](https://public.tableau.com/views/EmpoweringMassachusettsSchoolsInsightsfrom2017AccountabilityLevelsandPerformanceMetrics/EmpoweringMassachusettsSchools?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -36,7 +36,7 @@ Using Excel, pivot tables, scatterplots, and regression analysis, I segmented cu
   - Who spends the most, and how it shapes iFood’s strategy.  
   - The age and income groups driving growth.  
 
-![Excel](https://img.shields.io/badge/Excel-green?logo=MicrosoftExcel&logoColor=white)![Pivot_Tables](https://img.shields.io/badge/Pivot_Tables-yellowgreen)![Regression](https://img.shields.io/badge/Regression-blue)  
+![Excel](https://img.shields.io/badge/Excel-green?logo=MicrosoftExcel&logoColor=white) ![Pivot_Tables](https://img.shields.io/badge/Pivot_Tables-yellowgreen) ![Regression](https://img.shields.io/badge/Regression-blue)  
 
 [Read the LinkedIn Article](https://www.linkedin.com/pulse/copy-follow-money-how-ifood-discovers-its-goldmine-misan-omatsone-btqbe/)
 
@@ -48,7 +48,7 @@ Stay tuned for upcoming projects, including:
 - **NLP Applications**: Analysing sentiment in global development project reports.  
 - **Geospatial Analysis**: Mapping development loan impacts using Geopandas.
 
-![Git](https://img.shields.io/badge/Git-orange?logo=Git&logoColor=white)![AWS](https://img.shields.io/badge/AWS-orange?logo=AmazonAWS&logoColor=white)![Machine_Learning](https://img.shields.io/badge/Machine_Learning-teal?logo=TensorFlow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=Git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-orange?logo=AmazonAWS&logoColor=white) ![Machine_Learning](https://img.shields.io/badge/Machine_Learning-teal?logo=TensorFlow&logoColor=white)
 
 
 
