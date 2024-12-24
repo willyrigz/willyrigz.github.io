@@ -1,48 +1,18 @@
-# Basic site information
-title: Misan Omatsone Portfolio
-description: A showcase of my skills, experience, and projects in Data Analysis and Data Science.
-author:
-  name: Misan Omatsone
-  email: williamomatsone@gmail.com
-  location: Dublin, Ireland
+# Basic Information
+title: Misan Omatsone
+logo: "/images/profile.jpg?raw=true" # replace with your image file if needed
+description: > 
+  <br>
+  Data Analyst with 4+ years of commercial experience in data analytics, cloud technologies, and automation, holding a master’s degree in Data Science from Technological University Dublin.
+  <br><br>
+  Skilled in Python, SQL, R, Tableau, Power BI, and Advanced Statistical Modeling.
+  <br><br>
+  <a href="https://linkedin.com/in/misanomatsone">View my LinkedIn Profile</a>
 
-# Social links
-social:
-  linkedin: misanomatsone
-  github: your-github-username
-  email: williamomatsone@gmail.com
+# Theme and Analytics
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # replace with your Google Analytics tracking ID if applicable
 
-# Skills
-skills:
-  - Python
-  - SQL
-  - R
-  - Tableau
-  - Power BI
-  
-
-# Projects (example entries)
-projects:
-  - title: Cross-Functional Dashboards
-    description: Improved KPI tracking and reduced report generation time by 50% using Tableau.
-    link: https://github.com/your-github-username/project-dashboard
-  - title: Automated Workflows
-    description: Developed automated workflows to save 120 hours monthly for operational teams.
-    link: https://github.com/your-github-username/project-automation
-  - title: SQL Database Application
-    description: Built a SQL database application supporting 400,000 monthly queries.
-    link: https://github.com/your-github-username/project-sql-db
-
-# Certifications
-certifications:
-  - name: Google Data Analytics
-    link: https://www.coursera.org/account/accomplishments/professional-cert/JRZ23C22K24X
-  - name: Oracle Cloud Infrastructure AI Certified Foundations Associate
-    link: https://catalog-education.oracle.com/ords/certview/sharebadge?id=20BB0418271F0088423EA1890038C9CF605538D704DA34DD6FC6091AD21EB3AB
-  - name: Oracle Cloud Infrastructure Data Science Professional
-    link: https://catalog-education.oracle.com/ords/certview/sharebadge?id=D6A339C6F24D3F1AE2DE2F3B003F7DD6ACD262C7C3CD575D30D0FC8D22067838
-  - name: Oracle Machine Learning Associate
-    link: https://catalog-education.oracle.com/ords/certview/sharebadge?id=4EBD4E80176D10350351E82ECC779AA605EB025152A088E211A0141BA15DC5E6
-
-# Additional configurations (optional)
-theme: minima
+# Colors
+colors:
+  crimson: '#900C3F'
