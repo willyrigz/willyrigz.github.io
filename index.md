@@ -1,6 +1,19 @@
 ## **Featured Projects in Data Analytics and Insights**
 
 ---
+### **My Revolut: Unveiling Spending Habits with Data Analysis**
+**Understanding financial patterns and optimizing personal budgeting**
+
+This project leveraged data analysis to gain insights into my spending habits and financial patterns using my Revolut account transaction data from March 2020 to December 2024. Power BI was used to transform raw data into a structured data model and create interactive visualizations to explore key metrics.
+- **Find Out**:
+  - How my spending habits have evolved.
+  - What drives my weekend spending sprees.
+  - The story my money tells about my lifestyle.
+
+[Explore on Github](https://github.com/willyrigz/MyRevolutDataStory/) [Read on LinkedIn]
+
+
+---
 
 ### **Global Impact: Analysing World Bank Loan Performance with Data**  
 **Uncovering trends, inefficiencies, and strategies in development loans**  
