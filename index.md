@@ -10,9 +10,10 @@ This project leveraged data analysis to gain insights into my spending habits an
   - What drives my weekend spending sprees.
   - The story my money tells about my lifestyle.
 
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?logo=Power-BI&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white)v![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?logo=data&logoColor=white) ![Financial Insights](https://img.shields.io/badge/Financial_Insights-blue?logo=finance&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?logo=Power-BI&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?logo=data&logoColor=white) ![Financial Insights](https://img.shields.io/badge/Financial_Insights-blue?logo=finance&logoColor=white)
 
-[Explore on Github](https://github.com/willyrigz/MyRevolutDataStory/) [Read on LinkedIn](https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)
+[Explore on Github](https://github.com/willyrigz/MyRevolutDataStory/) 
+[Read on LinkedIn](https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)
 
 
 ---
