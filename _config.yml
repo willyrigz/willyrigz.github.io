@@ -1,13 +1,18 @@
 # Basic Information
 title: Misan Omatsone
 logo: "/images/profile.png?raw=true" # replace with your image file if needed
-description: > 
-  <br>
+description: 
+  p align="center">
+  <a href="https://www.linkedin.com/in/misanomatsone/">LinkedIn</a> |
+  <a href="https://github.com/willyrigz">GitHub</a>
+  </p>
+  
+  <p align="justify">
   Data Analyst with 4+ years of commercial experience in data analytics, cloud technologies, and automation, holding a master’s degree in Data Science from Technological University Dublin.
   <br><br>
   Skilled in Python, SQL, R, Tableau, Power BI, and Advanced Statistical Modeling.
   <br><br>
-  <a href="https://linkedin.com/in/misanomatsone">View my LinkedIn Profile</a>
+  </p>
 
 # Theme and Analytics
 theme: jekyll-theme-minimal
