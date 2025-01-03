@@ -11,10 +11,9 @@ This project analyzed 60,234 inpatient encounters of patients discharged to home
   - Which demographic groups face the highest readmission risks.
   - The actionable steps to improve testing protocols and patient outcomes.
 
-![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEsh
+![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white)
 
-
-[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://willyrigz.github.io/healthcareDiabetesAnalysis/)
+[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/)
 
 ---
 ### [**My Revolut: Unveiling Spending Habits with Data**](https://willyrigz.github.io/MyRevolut/) 
