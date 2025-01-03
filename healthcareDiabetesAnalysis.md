@@ -150,9 +150,11 @@ These findings suggest that while the difference in readmission rates between ge
 
 #### 5. Visual Representation of Key Insights
 
-- **HbA1c Testing Rates for Home Discharges**: Display a bar chart showing the percentage of encounters with and without HbA1c testing.
-- **Connection Between HbA1c Testing and Readmissions**: Use a stacked bar chart to compare readmission rates for each HbA1c category.
-- **Demographic Trends**: Include a heatmap showing readmission rates by gender and race for home-discharged patients.
+View the interactive Tableau dashboard here:
+
+[**Visualizing HbA1c Testing and Readmissions**](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+This dashboard highlights key insights, including testing gaps, demographic risks, and the relationship between HbA1c testing and readmission rates.
 
 ## Recommendation
 

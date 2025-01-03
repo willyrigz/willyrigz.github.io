@@ -13,7 +13,7 @@ This project analyzed 60,234 inpatient encounters of patients discharged to home
 
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white)
 
-[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/)
+[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/) [![Explore the Dashboard](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ### [**My Revolut: Unveiling Spending Habits with Data**](/MyRevolut) 
