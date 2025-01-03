@@ -1,7 +1,7 @@
 ## **Featured Projects in Data Analytics and Insights**
 
 ---
-### [**Focused Analysis of HbA1c Measures and Readmissions for Patients Discharged to Home**](/healthcareDiabetesAnalysis/)
+### [**Focused Analysis of HbA1c Measures and Readmissions for Patients Discharged to Home**](/healthcareDiabetesAnalysis)
 **Optimizing diabetes management and reducing readmissions through data-driven insights**
 
 This project analyzed 60,234 inpatient encounters of patients discharged to home to identify key trends in diabetes management and hospital readmissions. Using SQL and Tableau, the analysis explored gaps in HbA1c testing, demographic predictors of readmissions, and the relationship between testing and outcomes. The findings were visualized in an interactive dashboard, enabling actionable insights for healthcare providers.
@@ -16,7 +16,7 @@ This project analyzed 60,234 inpatient encounters of patients discharged to home
 [![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/)
 
 ---
-### [**My Revolut: Unveiling Spending Habits with Data**](/MyRevolut/) 
+### [**My Revolut: Unveiling Spending Habits with Data**](/MyRevolut) 
 **Understanding financial patterns and optimizing personal budgeting**
 
 This project leveraged data analysis to gain insights into my spending habits and financial patterns using my Revolut account transaction data from March 2020 to December 2024. Power BI was used to transform raw data into a structured data model and create interactive visualizations to explore key metrics.
