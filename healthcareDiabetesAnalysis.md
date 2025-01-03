@@ -150,7 +150,7 @@ These findings suggest that while the difference in readmission rates between ge
 
 #### 5. Visual Representation of Key Insights
 
-![image](/healthcareDiabetesAnalysis/HbA1cViz.png)
+![image](/diabetesresearch/images/HbA1cViz.png)
 
 View the interactive Tableau dashboard here:
 
