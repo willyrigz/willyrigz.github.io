@@ -1,21 +1,24 @@
 ## **Featured Projects in Data Analytics and Insights**
 
 ---
-### [**The Numbers Behind Layoffs: An HR Attrition Analysis**]
-**Understanding workforce trends and optimizing HR strategies**
 
-This project analyzed employee attrition data at OrigoMigo Inc. to uncover patterns in layoffs and optimize HR decision-making. Using R for statistical analysis and visualization, the analysis explored factors influencing attrition, potential biases, and actionable insights for improving retention and equity.
+### [**Focused Analysis of HbA1c Measures and Readmissions for Patients Discharged to Home**](/healthcareDiabetesAnalysis)
+**Optimizing diabetes management and reducing readmissions through data-driven insights**
+
+This project analyzed 60,234 inpatient encounters of patients discharged to home to identify key trends in diabetes management and hospital readmissions. Using SQL and Tableau, the analysis explored gaps in HbA1c testing, demographic predictors of readmissions, and the relationship between testing and outcomes. The findings were visualized in an interactive dashboard, enabling actionable insights for healthcare providers.
 
 - **Find Out**:
-  - How age and tenure impact the likelihood of being laid off.  
-  - Whether biases exist in the layoff process.  
-  - How predictive modeling can guide equitable compensation and retention strategies.
+  - How gaps in HbA1c testing influence readmission rates.
+  - Which demographic groups face the highest readmission risks.
+  - The actionable steps to improve testing protocols and patient outcomes.
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23FFD700?style=flat-square) ![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-%2300BFFF?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-%23FFA500?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white)
 
-[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/origomigo_hr_attrition/) 
+[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/) [![Explore the Dashboard](https://img.shields.io/badge/Explore%20the-Dashboard-blue?style=flat-square&logo=tableau)](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ---
+
 ### [**Focused Analysis of HbA1c Measures and Readmissions for Patients Discharged to Home**](/healthcareDiabetesAnalysis)
 **Optimizing diabetes management and reducing readmissions through data-driven insights**
 
@@ -31,6 +34,7 @@ This project analyzed 60,234 inpatient encounters of patients discharged to home
 [![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/) [![Explore the Dashboard](https://img.shields.io/badge/Explore%20the-Dashboard-blue?style=flat-square&logo=tableau)](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+
 ### [**My Revolut: Unveiling Spending Habits with Data**](/MyRevolut) 
 **Understanding financial patterns and optimizing personal budgeting**
 
