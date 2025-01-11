@@ -13,7 +13,7 @@ This project analyzed employee attrition data at OrigoMigo Inc. to uncover patte
   - How predictive modeling can guide equitable compensation and retention strategies.
 
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23FFD700?style=flat-square) ![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-%2300BFFF?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-%23FFA500?style=flat-square)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white) ![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-%2300BFFF?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-%23FFA500?style=flat-square)
 
 [![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/origomigo_hr_attrition/) 
 
