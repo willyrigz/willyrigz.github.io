@@ -1,7 +1,7 @@
 ## **Featured Projects in Data Analytics and Insights**
 
 ---
-### [**The Numbers Behind Layoffs: An HR Attrition Analysis**](/OrigoMigoIncAttrition)  
+### [**The Numbers Behind Layoffs: An HR Attrition Analysis**]
 **Understanding workforce trends and optimizing HR strategies**
 
 This project analyzed employee attrition data at OrigoMigo Inc. to uncover patterns in layoffs and optimize HR decision-making. Using R for statistical analysis and visualization, the analysis explored factors influencing attrition, potential biases, and actionable insights for improving retention and equity.
