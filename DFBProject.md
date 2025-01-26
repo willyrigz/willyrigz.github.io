@@ -30,8 +30,7 @@ The data was structured into:
 ### Entity-Relationship Diagram
 Below is the Entity-Relationship Diagram (ERD) showcasing the data model:
 
-![Entity-Relationship Diagram](DublinEmergencyServicesAnalysis/images/ERD.png)
-![Data Model](MyRevolutDataStory/images/MyRevolutDataModel.png)
+![Data Model](MyRevolutDataStory/images/ERD.png)
 
 
 ---
