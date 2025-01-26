@@ -2,6 +2,23 @@
 
 ---
 
+### [**Transforming Emergency Services with Data Insights**](https://public.tableau.com/views/DublinEmergencyServices/DublinFireBrigadeCallOutsDashboard)
+**Optimising fire and ambulance operations through actionable insights**
+
+This project analysed over a decade's worth of fire and ambulance operational data (2012–2023) from Dublin City Council. By cleaning, consolidating, and visualising the data, it uncovered key trends, bottlenecks, and opportunities to enhance public safety. An interactive Tableau dashboard enables stakeholders to explore response times, station workloads, and callout trends in detail.
+
+- **Find Out**:
+  - How one fire station managed **23,396 callouts**, highlighting the importance of resource optimisation in high-demand areas.
+  - Insights from the longest response time logged, which took **9 hours, 24 minutes, and 43 seconds** for a remote fire gorse incident, offering opportunities to investigate and improve operational workflows.
+  - How seasonal events, like the Dublin Theatre Festival, influenced emergency callout peaks.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2300BFFF?style=flat-square&logo=databricks&logoColor=white)
+
+[![Explore the Dashboard](https://img.shields.io/badge/View-Dashboard-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/views/DublinEmergencyServices/DublinFireBrigadeCallOutsDashboard) [![Explore on GitHub](https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/willyrigz/DublinEmergencyServicesAnalysis)
+
+
+---
+
 ### [**The Numbers Behind Layoffs: An HR Attrition Analysis**](OrigoMigo-Inc-Attrition.html)
 **Understanding workforce trends and optimizing HR strategies**
 
