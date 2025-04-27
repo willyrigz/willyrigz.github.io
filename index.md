@@ -2,7 +2,7 @@
 
 ---
 
-### [**Transforming Emergency Services with Data Insights**](/DFBProject)
+### [**Transforming Emergency Services with Data Insights**](https://medium.com/@williamomatsone/transforming-emergency-services-with-data-insights-a-study-on-fire-and-ambulance-operations-in-5fcb7340e01e)
 **Optimising fire and ambulance operations through actionable insights**
 
 This project analysed over a decade's worth of fire and ambulance operational data (2012–2023) from Dublin City Council. By cleaning, consolidating, and visualising the data, it uncovered key trends, bottlenecks, and opportunities to enhance public safety. An interactive Tableau dashboard enables stakeholders to explore response times, station workloads, and callout trends in detail.
@@ -12,9 +12,28 @@ This project analysed over a decade's worth of fire and ambulance operational da
   - Insights from the longest response time logged, which took **9 hours, 24 minutes, and 43 seconds** for a remote fire gorse incident, offering opportunities to investigate and improve operational workflows.
   - How seasonal events, like the Dublin Theatre Festival, influenced emergency callout peaks.
 
+
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%2300BFFF?style=flat-square&logo=databricks&logoColor=white)
 
-[![Explore the Dashboard](https://img.shields.io/badge/View-Dashboard-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/views/DublinEmergencyServices/DublinFireBrigadeCallOutsDashboard) [![Explore on GitHub](https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/willyrigz/DublinEmergencyServicesAnalysis)
+[![Read on Medium](https://img.shields.io/badge/Read%20on-Medium-black?style=flat-square&logo=medium)](https://medium.com/@williamomatsone/transforming-emergency-services-with-data-insights-a-study-on-fire-and-ambulance-operations-in-5fcb7340e01e) [![Explore the Dashboard](https://img.shields.io/badge/View-Dashboard-E97627?style=flat-square&logo=tableau)](https://public.tableau.com/views/DublinEmergencyServices/DublinFireBrigadeCallOutsDashboard) [![Explore on GitHub](https://img.shields.io/badge/Explore%20Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/willyrigz/DublinEmergencyServicesAnalysis)
+
+---
+
+### [**My Revolut: Unveiling Spending Habits with Data**]https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)  
+**Understanding financial patterns and optimizing personal budgeting**
+
+This project leveraged data analysis to gain insights into my spending habits and financial patterns using my Revolut account transaction data from March 2020 to December 2024. Power BI was used to transform raw data into a structured data model and create interactive visualizations to explore key metrics.
+- **Find Out**:
+  - How my spending habits have evolved.
+  - What drives my weekend spending sprees.
+  - The story my money tells about my lifestyle.
+
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?logo=Power-BI&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?logo=data&logoColor=white) ![Financial Insights](https://img.shields.io/badge/Financial_Insights-blue?logo=finance&logoColor=white)
+
+[![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/) 
+[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/MyRevolutDataStory/) 
+
 
 
 ---
@@ -50,23 +69,6 @@ This project analyzed 60,234 inpatient encounters of patients discharged to home
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=PostgreSQL&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-lightgrey?logo=Tableau&logoColor=white) ![Data_Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white)
 
 [![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/healthcareDiabetesAnalysis/) [![Explore the Dashboard](https://img.shields.io/badge/Explore%20the-Dashboard-blue?style=flat-square&logo=tableau)](https://public.tableau.com/views/HealthCareDiabetes_17359138048600/VisualizingDiabetesManagementandReadmissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-### [**My Revolut: Unveiling Spending Habits with Data**](/MyRevolut) 
-**Understanding financial patterns and optimizing personal budgeting**
-
-This project leveraged data analysis to gain insights into my spending habits and financial patterns using my Revolut account transaction data from March 2020 to December 2024. Power BI was used to transform raw data into a structured data model and create interactive visualizations to explore key metrics.
-- **Find Out**:
-  - How my spending habits have evolved.
-  - What drives my weekend spending sprees.
-  - The story my money tells about my lifestyle.
-
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?logo=Power-BI&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-green?logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-orange?logo=data&logoColor=white) ![Financial Insights](https://img.shields.io/badge/Financial_Insights-blue?logo=finance&logoColor=white)
-
-
-[![Explore on GitHub](https://img.shields.io/badge/Explore%20on-GitHub-black?style=flat-square&logo=github)](https://github.com/willyrigz/MyRevolutDataStory/) [![Read on LinkedIn](https://img.shields.io/badge/Read%20on-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)
-
 
 
 ---
