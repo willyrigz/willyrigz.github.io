@@ -20,7 +20,7 @@ This project analysed over a decade's worth of fire and ambulance operational da
 
 ---
 
-### [**My Revolut: Unveiling Spending Habits with Data**]https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)  
+### [**My Revolut: Unveiling Spending Habits with Data**](https://www.linkedin.com/pulse/my-revolut-data-story-misan-omatsone-kdtje/)  
 **Understanding financial patterns and optimizing personal budgeting**
 
 This project leveraged data analysis to gain insights into my spending habits and financial patterns using my Revolut account transaction data from March 2020 to December 2024. Power BI was used to transform raw data into a structured data model and create interactive visualizations to explore key metrics.
